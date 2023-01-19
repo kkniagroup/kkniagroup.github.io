@@ -71,7 +71,7 @@ var handleVectorMap = function() {
 				{latLng: [15.3, -61.38], name: 'Dominica'},
 				{latLng: [-20.2, 57.5], name: 'Mauritius'},
 				{latLng: [26.02, 50.55], name: 'Bahrain'},
-				{latLng: [0.33, 6.73], name: 'S‹o TomŽ and Pr’ncipe'}
+				{latLng: [0.33, 6.73], name: 'Sï¿½o Tomï¿½ and Prï¿½ncipe'}
 			]
 		});
 	}
@@ -276,7 +276,7 @@ var handleDashboardGritterNotification = function() {
 		$.gritter.add({
 			title: 'Welcome back, Admin!',
 			text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus lacus ut lectus rutrum placerat.',
-			image: '../assets/img/user/user-2.jpg',
+			image: '/assets/img/user/user-2.jpg',
 			sticky: true,
 			time: '',
 			class_name: 'my-sticky-class'
